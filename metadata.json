@@ -1,0 +1,7 @@
+{
+  "name": "Undercurrent",
+  "description": "Upstream supply-chain risk monitoring for tier-2 suppliers and beyond with immersive 3D digital twin, customs anomaly detection, and vessel tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
